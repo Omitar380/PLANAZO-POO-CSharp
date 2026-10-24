@@ -123,6 +123,4 @@ Prueba manualmente desde el menú:
 7. Precios: consulta los eventos y comprueba que la película mantiene el precio base, el concierto lo aumenta en 15 %, el taller lo reduce en 10 % y el evento deportivo lo aumenta en 20 %.
 8. Usuario: crea más de una reserva con el mismo nombre y consulta la opción 7; deben aparecer todas las reservas de esa persona, incluidas las canceladas.
 
-## Capturas
 
-Guarda en `Capturas/` capturas reales de la aplicación ejecutándose y de los casos anteriores antes de publicar el repositorio. No se incluyen imágenes generadas o simuladas como evidencia. Se recomienda capturar: menú y eventos con sus precios, una reserva correcta, una validación fallida, una cancelación con los cupos recuperados y el resumen de reservas.
